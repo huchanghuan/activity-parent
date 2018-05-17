@@ -1,0 +1,9 @@
+/.settings
+/.vertx
+/target
+/bin
+/logs
+/log
+.classpath
+.project
+.idea
